@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "strict": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "outDir": "./dist",
+      "rootDir": "./src"
+    },
+    "include": [
+      "src/**/*.ts",
+      "utils/testData.json"
+    ]
+  }
